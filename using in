@@ -1,0 +1,8 @@
+numbers = [10, 20, 30, 40, 50]
+
+num = 30
+
+if num in numbers:
+    print("Number is in the list")
+else:
+    print("Number is not in the list")
